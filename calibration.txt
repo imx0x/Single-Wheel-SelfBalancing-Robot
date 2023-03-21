@@ -1,0 +1,8 @@
+
+
+
+//calibration:
+Sensor readings with offsets:	-7	-4	16386	0	-1	0
+Your offsets:	-545	-905	1127	89	-31	-14
+
+Data is printed as: acelX acelY acelZ giroX giroY giroZ
