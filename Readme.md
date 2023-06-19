@@ -27,6 +27,9 @@
 
 - 3. To develop a system that can traverse and maintain equilibrium without any human intervention.
 
+# DEMO VIDEO :
+[CLICK HERE FOR DEMO](https://youtu.be/Y4rzYVdQ1w0)
+
 
 # FEATURES :
 - A mobility mechanism for robots that can be used in tight spaces, which requires a small footprint to move omnidirectionally, as well as to be highly maneuverable.
@@ -48,7 +51,6 @@
 
 
 
-[VIDEO LINK](https://youtube.com/shorts/E_zmVNOZTT8?feature=share)
 
 
 
