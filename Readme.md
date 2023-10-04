@@ -4,7 +4,8 @@
 
 
 
-
+# DEMO VIDEO :
+[CLICK HERE FOR DEMO](https://youtu.be/Y4rzYVdQ1w0)
 
 ### Introduction
 
@@ -27,8 +28,7 @@
 
 - 3. To develop a system that can traverse and maintain equilibrium without any human intervention.
 
-# DEMO VIDEO :
-[CLICK HERE FOR DEMO](https://youtu.be/Y4rzYVdQ1w0)
+
 
 
 # FEATURES :
